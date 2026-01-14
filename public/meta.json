@@ -1,0 +1,20 @@
+{
+    "logo" : {
+        "text" : "LYHOUR",
+        "image" : "/logo.png"
+    },
+    "pages" : [
+        {
+            "name" : "Home", "path" : "/", "component" : "Home"
+        },
+        {
+            "name" : "About", "path" : "/about", "component" : "About"
+        },
+        {
+            "name" : "Projects", "path" : "/projects", "component" : "Projects"
+        },
+        {
+            "name" : "Contact", "path" : "/contact", "component" : "Contact"
+        }
+    ]
+}
